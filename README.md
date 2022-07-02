@@ -7,6 +7,5 @@ website pendaftaran ini terdiri dari
 4. halaman login admin
 5. halaman beranda 
 6. halaman data peserta
-7. halaman edit atau update data peserta
-8. fungsi menghapus data
-9. fungsi keluar dari akun admin
+7. halaman cetak data peserta
+8. halaman edit atau update data peserta
